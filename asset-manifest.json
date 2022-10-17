@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EvgeniyKomar3/Message-React.git/static/css/main.fc6a0fb5.css",
-    "main.js": "/EvgeniyKomar3/Message-React.git/static/js/main.04ca301b.js",
-    "static/js/787.60235f71.chunk.js": "/EvgeniyKomar3/Message-React.git/static/js/787.60235f71.chunk.js",
-    "index.html": "/EvgeniyKomar3/Message-React.git/index.html",
-    "main.fc6a0fb5.css.map": "/EvgeniyKomar3/Message-React.git/static/css/main.fc6a0fb5.css.map",
-    "main.04ca301b.js.map": "/EvgeniyKomar3/Message-React.git/static/js/main.04ca301b.js.map",
-    "787.60235f71.chunk.js.map": "/EvgeniyKomar3/Message-React.git/static/js/787.60235f71.chunk.js.map"
+    "main.css": "/Message-React/static/css/main.fc6a0fb5.css",
+    "main.js": "/Message-React/static/js/main.36d19fe0.js",
+    "static/js/787.60235f71.chunk.js": "/Message-React/static/js/787.60235f71.chunk.js",
+    "index.html": "/Message-React/index.html",
+    "main.fc6a0fb5.css.map": "/Message-React/static/css/main.fc6a0fb5.css.map",
+    "main.36d19fe0.js.map": "/Message-React/static/js/main.36d19fe0.js.map",
+    "787.60235f71.chunk.js.map": "/Message-React/static/js/787.60235f71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc6a0fb5.css",
-    "static/js/main.04ca301b.js"
+    "static/js/main.36d19fe0.js"
   ]
 }
