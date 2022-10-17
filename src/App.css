@@ -1,0 +1,17 @@
+Body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HeaderBox {
+  background-color: #F7F7FF;
+  border: 2px solid #EFFFE7;
+  color: #000000;
+  font-size: 20px;
+  border-radius: 15px;
+  list-style: none;
+  padding: 11px;
+  text-align: center;
+}
+
