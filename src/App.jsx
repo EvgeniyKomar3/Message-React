@@ -12,7 +12,6 @@ import {Form} from "./components/FormFunc/Form";
 
 export const App = () => {
   return <>
-    <h1>Привет Антон</h1>
     <Form/>
   </>
 }
